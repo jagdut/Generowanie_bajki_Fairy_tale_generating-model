@@ -15,7 +15,8 @@
 ❖Śnieżka
 ❖Titelitury
 
-Źródło bajek: Strona internetowa WolneLektury.pl https://wolnelektury.pl/katalog/lektury/basnie-bajki-bajeczki/
+Źródło bajek: Strona internetowa WolneLektury.pl  
+https://wolnelektury.pl/katalog/lektury/basnie-bajki-bajeczki/
 
 ## Proste statystyki dotyczące bajek
 Ilość bajek: 13.  
