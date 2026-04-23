@@ -18,8 +18,8 @@
 Źródło bajek: Strona internetowa WolneLektury.pl https://wolnelektury.pl/katalog/lektury/basnie-bajki-bajeczki/
 
 ## Proste statystyki dotyczące bajek
-Ilość bajek: 13. 
-Ilość słów we wszystkich bajkach 22747. 
+Ilość bajek: 13.  
+Ilość słów we wszystkich bajkach 22747.  
 Ilość zdań we wszystkich bajkach 1491
 
 ## Zastosowane techniki
