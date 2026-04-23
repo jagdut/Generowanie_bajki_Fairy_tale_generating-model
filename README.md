@@ -1,1 +1,1 @@
-# Model-generuj-cy-bajk---Fairy-tale-generating-model
+# Model do generowanie bajki - Fairy tale generationg model
